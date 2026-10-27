@@ -1,7 +1,7 @@
 <h1 align="center">Marino Hardin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Full-Stack+Senior+Software+Engineer;Lead+Bank+Backend+Engineer;Fintech+Systems+Builder;Indie+App+Developer;AWS+Infrastructure+Architect" alt="Full-Stack Senior Software Engineer, Lead Bank Backend Engineer, Fintech Systems Builder, Indie App Developer, AWS Infrastructure Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&center=true&vCenter=true&width=600&lines=Full-Stack+Senior+Software+Engineer;Lead+Bank+Backend+Engineer;Fintech+Systems+Builder;Indie+App+Developer;AWS+Infrastructure+Architect" alt="Full-Stack Senior Software Engineer, Lead Bank Backend Engineer, Fintech Systems Builder, Indie App Developer, AWS Infrastructure Architect" />
 </p>
 
 <p align="center">
