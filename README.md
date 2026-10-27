@@ -58,6 +58,7 @@ Every one of these life side-quests taught me something valuable that stuck with
 
 ### Cloud and Tooling
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <p>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB" />
