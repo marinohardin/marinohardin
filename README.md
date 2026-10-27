@@ -8,6 +8,28 @@
   <a href="https://marinoh.com"><strong>marinoh.com</strong></a>
 </p>
 
+## About
+
+I'm a nerd of all trades, who has dabbled in everything.
+
+I’ve built and deployed software and infrastructure for lenders, banks, hospitals, and my own mobile apps.
+
+I’ve led teams in software engineering, real estate, journalism, and lobbying (where we changed laws).
+
+And I've been a top competitive Super Smash Bros Brawl player, and still play Melee today.
+
+Every one of these life side-quests taught me something I use today when I work with people to design and build systems.
+
+## Solo Projects
+
+- **[Elite Force for Mac](https://github.com/marinohardin/EliteForce-MacOS-Marino)** (2026). A native Apple Silicon port of *Star Trek: Voyager Elite Force*, with the single-player campaign and Holomatch multiplayer in one app.
+- **[Centsless](https://marinoh.com/work/centsless)** (2026). A serverless personal finance app that runs in my own AWS account for well under a dollar a month.
+- **[SmashPad](https://marinoh.com/work/smashpad)** (2015 to 2021). Native iOS and Android companion app for the competitive Super Smash Bros. Melee community, with thousands of active users.
+
+## Team Work
+
+- **[Mobile banking backend](https://marinoh.com/work/becu-mobile-backend)**, BECU (2025 to present). Leading the backend team behind a credit union's mobile banking app.
+- **[Loan funding and servicing platform](https://marinoh.com/work/sunpower-loan-platform)**, SunPower Financial (2022 to 2024). Serverless pipeline that funds and hands off residential solar loans without anyone touching them.
 ## Tech Stack
 
 ### Languages
