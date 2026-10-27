@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marinoh.com"><strong>marinoh.com</strong></a>
+  <a href="https://marinoh.com"><img src="https://img.shields.io/badge/marinoh.com-121212?style=for-the-badge" alt="marinoh.com" /></a>
 </p>
 
 ## About
