@@ -10,13 +10,15 @@
 
 ## About
 
-I'm a nerd of all trades, who has dabbled in everything.
+I'm a nerd of all trades, whose defining trait is curiousity and dabbling.
 
 I’ve built and deployed software and infrastructure for lenders, banks, hospitals, and my own mobile apps.
 
 I’ve led teams in software engineering, real estate, journalism, and lobbying (where we changed laws).
 
-And I've been a top competitive Super Smash Bros Brawl player, and still play Melee today.
+And I've been a top [competitive Super Smash Bros Brawl player](https://www.ssbwiki.com/Smasher:Praxis), and still play Melee today.
+<img width="210" height="238" alt="image" src="https://github.com/user-attachments/assets/5d73a75a-5bc8-4220-aadf-fdea12d80944" />
+
 
 Every one of these life side-quests taught me something I use today when I work with people to design and build systems.
 
