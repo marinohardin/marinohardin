@@ -17,6 +17,7 @@ I’ve built and deployed software and infrastructure for lenders, banks, hospit
 I’ve led teams in software engineering, real estate, journalism, and lobbying (where we changed laws).
 
 And I've been a top [competitive Super Smash Bros Brawl player](https://www.ssbwiki.com/Smasher:Praxis), and still play Melee today.
+
 <img width="210" height="238" alt="image" style="float: right;" src="https://github.com/user-attachments/assets/5d73a75a-5bc8-4220-aadf-fdea12d80944" />
 
 
