@@ -20,7 +20,7 @@ And I've been a top [competitive Super Smash Bros Brawl player](https://www.ssbw
 
 
 
-Every one of these life side-quests taught me something I use today when I work with people to design and build systems.
+Every one of these life side-quests taught me something valuable that stuck with me today as I work with people and design things.
 
 ## Solo Projects
 
