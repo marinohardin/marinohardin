@@ -28,11 +28,15 @@ Every one of these life side-quests taught me something valuable that stuck with
 - **[Centsless](https://marinoh.com/work/centsless)** (2026). A serverless personal finance app that runs in my own AWS account for well under a dollar a month.
 - **[SmashPad](https://marinoh.com/work/smashpad)** (2015 to 2021). Native iOS and Android companion app for the competitive Super Smash Bros. Melee community, with thousands of active users.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marinohardin&repo=EliteForce-MacOS-Marino)](https://github.com/marinohardin/EliteForce-MacOS-Marino)
+
 ## Team Work
 
 - **[Mobile banking backend](https://marinoh.com/work/becu-mobile-backend)**, BECU (2025 to present). Leading the backend team behind a credit union's mobile banking app.
 - **[Loan funding and servicing platform](https://marinoh.com/work/sunpower-loan-platform)**, SunPower Financial (2022 to 2024). Serverless pipeline that funds and hands off residential solar loans without anyone touching them.
 ## Tech Stack
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinohardin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Languages
 
@@ -58,7 +62,6 @@ Every one of these life side-quests taught me something valuable that stuck with
 
 ### Cloud and Tooling
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <p>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB" />
